@@ -1,4 +1,5 @@
 Olá! Sou o José 👋
+
 💻 Desenvolvedor Python - Manaus/AM
 
 Encontre-me por aqui 
