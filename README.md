@@ -1,13 +1,13 @@
-Olá! Sou o José 👋
+### Olá! Sou o José 👋
 
-💻 Desenvolvedor Python 🐍 - Manaus/AM
+- 💻 Desenvolvedor Python 🐍 - Manaus/AM
+- 🤖 Cursando Sistemas de Informação
+- 💻 Atualmente trabalho na Imprensa Oficial do Amazonas
+
 
 Encontre-me por aqui:
+- https://www.instagram.com/guilherme.lins/
 
-https://www.instagram.com/guilherme.lins/
-
-🤖 Cursando Sistemas de Informação
-💻 Atualmente trabalho na Imprensa Oficial do Amazonas
 
 
 
