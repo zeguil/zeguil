@@ -1,7 +1,7 @@
 ### Olá! Sou o José 👋
 
-- 💻 Desenvolvedor Python 🐍 
-- 🤖 Cursando Sistemas de Informação
+- 🐍 Desenvolvedor Python  
+- 📚 Cursando Sistemas de Informação
 - 💻 Atualmente trabalho na Imprensa Oficial do Amazonas
 - :house_with_garden: Manaus/AM.
 
@@ -13,5 +13,4 @@ Encontre-me por aqui:
 
 
 ![](https://komarev.com/ghpvc/?username=zeguil&color=blue&style=flat)
-
 
