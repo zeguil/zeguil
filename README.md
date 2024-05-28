@@ -3,7 +3,6 @@
 
 - 🐍 Desenvolvedor Python  
 - 📚 Cursando Sistemas de Informação
-- 💻 Atualmente trabalho na Autoponia
 - :house_with_garden: Manaus/AM.
 
 Tecnologias:
