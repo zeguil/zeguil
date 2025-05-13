@@ -2,7 +2,7 @@
 
 
 - 🐍 Desenvolvedor Python  
-- 📚 Cursando Sistemas de Informação
+- 📚 Graduado em Sistemas de Informação
 - :house_with_garden: Manaus/AM.
 
 Tecnologias:
